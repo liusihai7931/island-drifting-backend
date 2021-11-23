@@ -2,7 +2,7 @@
 
 ## 歪瑞古德小队Git使用规范
 
-Author：[歪瑞古德小队](https://www.cnblogs.com/misterchaos/p/12766888.html)-黄钰朝
+Author：[歪瑞古德小队]
 
 ## 一、Commit规范
 
